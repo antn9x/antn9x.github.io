@@ -1,7 +1,8 @@
+---
 layout: page
 title: "privacy"
 permalink: /privacy
-
+---
 **Privacy Policy**
 
 antn9x built the Plane shooter app as a Commercial app. This SERVICE is provided by antn9x and is intended for use as is.
